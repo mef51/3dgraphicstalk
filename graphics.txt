@@ -8,3 +8,5 @@ http://threejs.org/docs/index.html#Manual/Introduction/Creating_a_scene
 http://shdr.bkcore.com/
 http://vimeo.com/88957041
 http://www.youtube.com/watch?v=NdcnQISuF_Y
+http://iquilezles.org/www/articles/terrainmarching/terrainmarching.htm
+http://www.animation-boss.com/disney_050512.html
