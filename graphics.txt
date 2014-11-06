@@ -1,0 +1,10 @@
+acko.net
+http://www.playfuljs.com/a-first-person-engine-in-265-lines/
+http://www.scratchapixel.com/lessons/3d-basic-lessons/lesson-1-writing-a-simple-raytracer/
+http://learningwebgl.com/blog/?page_id=1217
+http://jsfiddle.net/vz5aZ/2/
+http://jsfiddle.net/uzMPU/
+http://threejs.org/docs/index.html#Manual/Introduction/Creating_a_scene
+http://shdr.bkcore.com/
+http://vimeo.com/88957041
+http://www.youtube.com/watch?v=NdcnQISuF_Y
